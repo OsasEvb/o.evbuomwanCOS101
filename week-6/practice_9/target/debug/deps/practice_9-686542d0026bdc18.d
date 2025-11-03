@@ -1,0 +1,5 @@
+C:\Users\Osaso\o.evbuomwanCOS101\week-6\practice_9\target\debug\deps\practice_9-686542d0026bdc18.d: src\main.rs
+
+C:\Users\Osaso\o.evbuomwanCOS101\week-6\practice_9\target\debug\deps\libpractice_9-686542d0026bdc18.rmeta: src\main.rs
+
+src\main.rs:
